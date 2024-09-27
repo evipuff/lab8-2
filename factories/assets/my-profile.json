@@ -1,0 +1,68 @@
+{
+  "personal_information": {
+    "name": {
+      "first_name": "Barbara",
+      "last_name": "Angeles",
+      "middle_initial": "Yap"
+    },
+    "birth_information": {
+      "date_of_birth": "1907-12-04",
+      "birth_event": "Marked with a Yuletide thanksgiving celebration."
+    },
+    "contact_information": {
+      "address": {
+        "street": "McArthur Highway",
+        "city": "Pampanga",
+        "state": "Central Luzon",
+        "zip_code": "2009",
+        "country": "Philippines"
+      }
+    }
+  },
+  "education": {
+    "degree": "Bachelor of Education",
+    "university": "Centro Escolar de Senoritas",
+    "graduation_date": "1930-05-30",
+    "achievements": [
+      "Vision of helping those with less in life.",
+      "Established the Angeles Academy in 1931, the first private school in Pampanga."
+    ]
+  },
+  "experience": [
+    {
+      "job_title": "Founder",
+      "organization": "Angeles Academy",
+      "start_date": "1931-05-10",
+      "end_date": "1933-06-01",
+      "description": "Found the first private school in Pampanga, aiming to provide education to students."
+    },
+    {
+      "job_title": "Founder",
+      "organization": "Angeles Institute of Technology",
+      "start_date": "1962-05-25",
+      "description": "Re-established a school to provide education to students with scholarships"
+    }
+  ],
+  "philanthropy": [
+    {
+      "role": "Philanthropist",
+      "start_date": "1962-05-25",
+      "description": "Provided scholarships and free tuition to fire victims in Angeles City."
+    }
+  ],
+  "values": [
+    "Belief in providing education to the underprivileged.",
+    "Faith in human goodness despite challenges.",
+    "Strong leadership and resolve in educational management."
+  ],
+  "languages": [
+    {
+      "language": "Kapampangan",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}
